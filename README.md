@@ -45,7 +45,7 @@ This project is an interactive Tableau dashboard built to analyze PhonePe user t
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](phonepe dashboard.png)
 
 ---
 
