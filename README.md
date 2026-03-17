@@ -43,12 +43,6 @@ This project is an interactive Tableau dashboard built to analyze PhonePe user t
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard](phonepe dashboard.png)
-
----
-
 ## 🚀 How to Use
 
 1. Download the `.twbx` file
